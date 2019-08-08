@@ -1,0 +1,10 @@
+C:\Users\HP 820\source\repos\3D-room-images\3D-room-images\bin\Debug\3D-room-images.exe.config
+C:\Users\HP 820\source\repos\3D-room-images\3D-room-images\bin\Debug\3D-room-images.exe
+C:\Users\HP 820\source\repos\3D-room-images\3D-room-images\bin\Debug\3D-room-images.pdb
+C:\Users\HP 820\source\repos\3D-room-images\3D-room-images\obj\Debug\3D-room-images.csprojAssemblyReference.cache
+C:\Users\HP 820\source\repos\3D-room-images\3D-room-images\obj\Debug\_3D_room_images.Form1.resources
+C:\Users\HP 820\source\repos\3D-room-images\3D-room-images\obj\Debug\_3D_room_images.Properties.Resources.resources
+C:\Users\HP 820\source\repos\3D-room-images\3D-room-images\obj\Debug\3D-room-images.csproj.GenerateResource.cache
+C:\Users\HP 820\source\repos\3D-room-images\3D-room-images\obj\Debug\3D-room-images.csproj.CoreCompileInputs.cache
+C:\Users\HP 820\source\repos\3D-room-images\3D-room-images\obj\Debug\3D-room-images.exe
+C:\Users\HP 820\source\repos\3D-room-images\3D-room-images\obj\Debug\3D-room-images.pdb
