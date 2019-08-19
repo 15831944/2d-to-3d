@@ -1,0 +1,4 @@
+vector data model: [data models] A representation of the world 
+using points, lines, and polygons. 
+Vector models are useful for storing data that has discrete boundaries, 
+such as country borders, land parcels, and streets.
