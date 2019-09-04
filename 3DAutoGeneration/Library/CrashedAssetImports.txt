@@ -1,0 +1,3 @@
+Assets/SampleScenes/Prefabs/GoalPosts.prefab
+Assets/SampleScenes/Prefabs/House.prefab
+Assets/Standard Assets/2D/Prefabs/Platform08x01.prefab
