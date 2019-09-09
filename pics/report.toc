@@ -1,0 +1,27 @@
+\nobreakspace {}\vspace {-3\baselineskip }
+\contentsline {section}{\numberline {1}Introduction}{1}% 
+\contentsline {subsection}{\numberline {1.1}Overview of Project}{1}% 
+\contentsline {subsection}{\numberline {1.2}Background}{1}% 
+\contentsline {subsection}{\numberline {1.3}Motivation}{2}% 
+\contentsline {section}{\numberline {2}Objectives of the project}{2}% 
+\contentsline {subsection}{\numberline {2.1}Industry Objectives}{2}% 
+\contentsline {subsection}{\numberline {2.2}Research Objectives}{2}% 
+\contentsline {subsection}{\numberline {2.3}Academic Objectives}{2}% 
+\contentsline {section}{\numberline {3}Scope of the project}{3}% 
+\contentsline {section}{\numberline {4}Target Audience}{3}% 
+\contentsline {section}{\numberline {5}Possible Applications of work}{4}% 
+\contentsline {section}{\numberline {6}Existing System}{6}% 
+\contentsline {subsection}{\numberline {6.1}Comparison of Existing Systems}{6}% 
+\contentsline {subsection}{\numberline {6.2}Drawbacks of Existing Systems}{7}% 
+\contentsline {section}{\numberline {7}Problem Statement}{12}% 
+\contentsline {section}{\numberline {8}Proposed System}{12}% 
+\contentsline {section}{\numberline {9}Feasibility Study}{13}% 
+\contentsline {subsection}{\numberline {9.1}Technical feasibility}{13}% 
+\contentsline {subsection}{\numberline {9.2}Operational feasibility}{14}% 
+\contentsline {subsection}{\numberline {9.3}Economical feasibility}{14}% 
+\contentsline {section}{\numberline {10}System Requirements}{18}% 
+\contentsline {subsection}{\numberline {10.1}Hardware Requirements}{18}% 
+\contentsline {subsection}{\numberline {10.2}Software Requirements}{19}% 
+\contentsline {section}{\numberline {11}Limitations and challenges in implementation of project}{19}% 
+\contentsline {section}{\numberline {12}References}{21}% 
+\contentsline {section}{References}{21}% 
