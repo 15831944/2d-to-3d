@@ -82,22 +82,29 @@ A common user who does not know how their home look after construction and prope
 \section{Objectives of the project}
 \subsection{Industry Objectives}
 \begin{itemize}
-\item	Implement a curriculum that takes into account the demands of industrial artists, home planners and architectural engineers when they designed 2D floor plans and want to see them in 3D before actual implementation.
-\item	To promote prospective and rapid development of a project by generating 3D models from 2D floor plans in just some moments. This leads to industrial workers save their time and cost.
-
+\item Implement a system that takes into account the demands of industrial artists, home planners and architectural engineers when they designed 2D floor plans and want to see them in 3D before actual implementation.
+\item To promote prospective and rapid development of a project by generating 3D models from 2D floor plans in just some moments. This leads to industrial workers save their time and cost.
+\item To increase industry sales and profit by automatically generating 3D models which seeks customers attraction in less time. This system provides opportunity to estate builders and home-planners to grow market sales by investing less time and effort on their customers.
+\item To grow market shares time by time because every planner wants to increase his share in this era of marketing. When most of the industrial house-planners want to use this proposed system, then they provide a large amount of 3D models of their 2D floor plans to the market, they will get profit over their sales and invest this profit to another venture. This will lead to grow their market shares.
+\item To launch a new service which gives ability to view 3D models of 2D floor plans from different viewpoints. Planner can decide abruptly that which texture suits well to his house. It is also a way to increase customer attraction.
 \end{itemize}
 \subsection{Research Objectives}
 \begin{itemize}
-\item	To apply automation for construction of 3D model via the successive collection of multi-sensorial data and research papers.
-\item	To analyze working different softwares which make 3D models via importing floor plans in different formats as input with high precision and less effort. So, we could research on newly deployed softwares in market.
+\item To apply automation for construction of 3D model via the successive collection of multi-sensorial data and research papers.
+\item To analyze working different softwares which make 3D models via importing floor plans in different formats as input. So, we could research on existing softwares in market.
 \item To verify, whether we are moving towards right technology and software in order to implement a 3D project.
+\item To find out the planners/customers relationship on the behavior of house construction.
+\item To identify the problems faced by users and planners while constructing houses according to their own 2D floor plan.
+\item To provide the solution of the problems faced by planners and comon users while constructing houses.
+\item To predict the behavior of people who were already using these kinds of softwares by importing or drawing their own 2D floor plans.
+\item To develop a system which provides users to make decisions at right time before they start constructing their houses.
+\item To assess the traditions of people i.e. which type of texture and maps they mostly want.
 
 \end{itemize}
 \subsection{Academic Objectives}
 \begin{itemize}
-\item	To ensure, that we are implementing our project by using latest technologies which helps students and technical persons to enhance their academic skills via learning and integrating new textures about 3D modelling.
-\item To implement a 3D project in a way that is compatible with existing systems and capable of taking automated decision while generating 3D model.
-\item To make a user friendly GUI (Graphical User Interface) that does not require too much interfaces to access 3D model generated according to the 2D floor plan.
+\item	To ensure, that we are implementing our project by using latest technologies which helps students and technical persons to enhance their technical skills via learning.
+\item Students will able to apply their knowledge and technical skills they have learned in these three years so far.
 
 \end{itemize}
 \section{Scope of the project}
@@ -128,7 +135,7 @@ The possible applications of the system are:
 
 \begin{center}
 \includegraphics[scale=1]{floorplan}
-\\2D floor plan
+\\Figure 1: 2D floor plan
 \end{center}
 
 
@@ -138,24 +145,24 @@ The possible applications of the system are:
 
 \begin{center}
 \includegraphics[scale=0.4]{3dmodel}
-\\3D generated model
+\\Figure 2: 3D generated model
 \end{center}
 
 
 \item Platform for interior designing of 3D generated model i.e.  Placement of furniture, changing of texture/paint color of walls and changing of floor designs.
 \begin{center}
 \includegraphics[scale=0.3]{3dhome}
-\\3D model interior designing
+\\Figure 3: 3D model interior designing
 \end{center}
 \item Platform for architects to generate 3D model efficiently with less time and effort.
 \begin{center}
 \includegraphics[scale=0.7]{architect}
-\\Architects
+\\Figure 4: Architects
 \end{center}
 \item Platform for home planners, real estate selling agents to win customer satisfaction and for efficient sales promotions.
 \begin{center}
 \includegraphics[scale=0.4]{real}
-\\Interaction with customers
+\\Figure 5: Interaction with customers
 \end{center}
 \end{itemize}
 \section{Existing System}
@@ -181,7 +188,7 @@ Blender&Ton Roosendaal&Rendering, Game Creation,
 Animation Toolset, Visual Effects.
 \\
 \hline
-Free CAD Software&Jürgen Riegel, Werner Mayer, Yorik van Havre&2D drawing, 3D Modelling, Panoramic 360 Views, Parrametric Model\\
+Free CAD Software&Jürgen Riegel, Werner Mayer, Yorik van Havre&2D drawing, 3D Modelling, Panoramic 360 Views, Parametric Model\\
 \hline
 SolidWorks&Autodesk&2D Drawing, 3D solid Modelling, 3D model editing\\
 \hline
@@ -216,33 +223,33 @@ SolidWorks&Only Free trial version is available&Windows, MacOS&Written in C++	&O
 SketchUp is commonly used by architects, civil engineers and mechanical engineers for the purpose of architectural design. This software mainly focuses on the design of architectural building ad less focus on interior design. So this software is not suitable for interior design. This software cannot generate 3D model automatically. It required a lot of manual work in creating 3D model. For example before generating 3D model, users must trace the floor plan image and then extrude the walls by using SketchUp provided tools. So, it is not easy to use for non-technical users.\cite{sketchup}\\
 \begin{center}
 \includegraphics[scale=0.23]{sketchUp}
-\\SketchUp UI
+\\Figure 6: SketchUp UI
 \end{center}
 \heading{SweetHome3d}SweetHome3d mainly focuses on generating 3D model by drawing 2D floor plan in provided editor simultaneously.If user wants to generate 3D model by importing floor plan image then manual work of tracing and refining an image is required. So, a lot of time is required in doing so.
 \begin{center}
 \includegraphics[scale=0.54]{sweetHome}
-SweetHome3D UI
+Figure 7: SweetHome3D UI
 \end{center}
 
 \heading{Blender}
 Blender is a big platform for modeling, animation, simulation, and game creation. It is very difficult to use because of 100\% customizable interface. It is suitable only for technical users. It requires a lot of effort and time to learn how to use Blender. It allows users to draw 2D floor plan and generate 3D model after a lot of manual work. So, it is not suitable for non-technical users.
 \begin{center}
 \includegraphics[scale=0.33]{blender}
-Blender UI
+Figure 8: Blender UI
 \end{center}
 \heading{FreeCAD Software}
 We can create best 3D models through FreeCAD but the problem is again less automation and more manual work is required. Time taking process is required to know how to run the software and also training of the staff is required which will work on it. So, this software is not suitable for normal user.
 \\
 \begin{center}
 \includegraphics[scale=0.35]{freeCad}
-FreeCAD UI
+Figure 9: FreeCAD UI
 \end{center}
                
 \heading{SolidWorks}
 SolidWorks mainly focuses on creating 3D models of all types. It does not specifically focus on 3D model of rooms. Although this software is relatively easy to use in comparison to other such softwares but main drawback is its pricing.  Also, it is not suitable software for interior design of home.\cite{freecad}\\
 \begin{center}
 \includegraphics[scale=0.3]{SolidWorks}
-SolidWorks UI
+\\Figure 10: SolidWorks UI
 \end{center}
 
 \section{Problem Statement}
@@ -262,76 +269,63 @@ User will able to choose any furniture from the list provided (i.e. table, chair
 \heading{Different viewpoints of 3-D model}
 User will be able to have different viewpoints of 3-D model i.e. top view, front view and side view. User will also have viewpoint of walk through the 3-D model.
 
-\begin{figure}[h!]
-\centering
+\begin{center}
 \includegraphics[scale=0.7]{diagram}
-\caption{Proposed system architecture}
-\end{figure}
+\\Figure 11: Proposed system architecture
+\end{center}
+
 \section{Feasibility Study}
 
 
 \subsection{Technical feasibility}
 For the development of proposed system, we will use latest technologies. We need any 3D graphics API for the purpose of rendering of 3D models. We can use OpenGL, Irrlicht3D or Direct3D but we choose unity3D. The reason is that OpenGL and Direct3D are low-level APIs which mean we need extremely tough graphical programming for rendering 3D models. Another reason is there were lots of APIs that are built on the top of OpenGL or Direct3D which are relatively easy to use. We can use Irrlicht3D\cite{Irrlicht} but Irrlich3D is neither a latest technology nor it is easy to use.So, finally we choose unity3D graphical engine because it is a latest technology and technically feasible, also it has user-friendly environment for developing applications. Programming language will be C\#. For image recognition and image processing techniques we will use Python 3.6. So, the project’s development is practicable and technically feasible.\cite{TechFeas}\\
 \subsection{Operational feasibility}
-Operational feasibility means whether a proposed system is to be feasible at operational level. For this purpose, we conduct a market survey in which we ask many questions from common users, architects, home planners and interior designers. 71.1\% people think that their home is not according to what they have imagined at the time of constructing house(see Figure \ref{fig:one}). 87.5\% people like to do interior designing of their home on our software to see how it looks before actually doing in real environment(see Figure \ref{fig:two}). 35\% people use already existing such systems but they don’t like these systems because of hard to use and time taking steps required to generate 3D model(see Figure \ref{fig:three}). The proposed system is generate efficiently 3D model on just a button click.
+Operational feasibility means whether a proposed system is to be feasible at operational level. For this purpose, we conduct a market survey in which we ask many questions from common users, architects, home planners and interior designers. 69.7\% people think that their home is not according to what they have imagined at the time of constructing house(see Figure 13). 87.9\% people like to do interior designing of their home on our software to see how it looks before actually doing in real environment(see Figure 14). 51.5\% people use already existing such systems but they don’t like these systems because of hard to use and time taking steps required to generate 3D model(see Figure 15). The proposed system is generate efficiently 3D model on just a button click.
 \\
 \\
-We also conduct survey for architects, home planners and real estate seller agents. 75\% people think that they face difficulty in satisfying the customer with their floor plan designs(see Figure \ref{fig:four}). 87\% people think that the existing systems are not easy to use(see Figure \ref{fig:five}). 73\% people that existing systems are not cost effective because these softwares are not free(see Figure \ref{fig:six}). 90.9\% people are willing to use our proposed system because our proposed system automatically generate 3D model instead of make the 3D model after a lot of manual steps(see Figure \ref{fig:seven}). 
+We also conduct survey for architects, home planners and real estate seller agents. 77.3\% people think that they face difficulty in satisfying the customer with their floor plan designs(see Figure 16). 85.7\% people think that the existing systems are not easy to use(see Figure 17). 71.4\% people that existing systems are not cost effective because these softwares are not free(see Figure 18). 90.9\% people are willing to use our proposed system because our proposed system automatically generate 3D model instead of make the 3D model after a lot of manual steps(see Figure 19). 
 This study shows that our proposed system is highly operational feasible. There are a lot of drawbacks in existing systems. People want to generate 3D model in less time and with ease. Our proposed system will bring new ideas for efficient sales promotion. Architects and home planners use our proposed system in order to win customer satisfaction. Customer gets their desired dream home exactly according to their imagination. People want to see interior designing of their home according to their imagination without wasting extra money. So, our system is highly acceptable at operational level.
-\begin{figure}[h!]
-\centering
+\begin{center}
 \includegraphics[scale=0.9]{surveydata}
-\caption{Survey reviews}
-\end{figure}
+\\Figure 12: Survey reviews
+\end{center}
 
-\begin{figure}[h!]
-\centering
+
+\begin{center}
 \includegraphics[scale=0.7]{graph3}
-\caption{Not desired house}
-\label{fig:one}
-\end{figure}
+\\Figure 13: Not desired house
+\end{center}
 
-\begin{figure}[h!]
-\centering
+\begin{center}
 \includegraphics[scale=0.7]{graph4}
-\caption{Interior designing of 3D model}
-\label{fig:two}
-\end{figure}
+\\Figure 14: Interior designing of 3D model
+\end{center}
 
-\begin{figure}[h!]
-\centering
+\begin{center}
 \includegraphics[scale=0.7]{graph5}
-\caption{Use existing systems}
-\label{fig:three}
-\end{figure}
+\\Figure 15: Use existing systems
+\end{center}
 
-\begin{figure}[h!]
-\centering
+\begin{center}
 \includegraphics[scale=0.7]{graph8}
-\caption{For architects and home planners}
-\label{fig:four}
-\end{figure}
+\\Figure 16: For architects and home planners
+\end{center}
 
-\begin{figure}[h!]
-\centering
+\begin{center}
 \includegraphics[scale=0.8]{graph12}
-\caption{Not easy to use}
+\\Figure 17: Not easy to use
 \label{fig:five}
-\end{figure}
+\end{center}
 
-\begin{figure}[h!]
-\centering
+\begin{center}
 \includegraphics[scale=0.7]{graph11}
-\caption{Not cost effective}
-\label{fig:six}
-\end{figure}
+\\Figure 18: Not cost effective
+\end{center}
 
-\begin{figure}[h!]
-\centering
+\begin{center}
 \includegraphics[scale=0.6]{lastgraph}
-\caption{Willing to use our proposed system}
-\label{fig:seven}
-\end{figure}
+\\Figure 19: Willing to use our proposed system
+\end{center}
  
 
 \subsection{Economical feasibility}
@@ -343,22 +337,18 @@ Economical feasibility means whether a project is economically feasible by analy
 \heading{Hardware requirements for Users}
 Users just need a laptop/PC in which our application is installed.
 \heading{Hardware requirements for Development}
-\begin{figure}[h!]
-\centering
+\begin{center}
 \includegraphics[scale=0.8]{table2}
-\caption{Hardware Requirements}
-\label{fig:hard}
-\end{figure}
+\\Figure 20: Hardware Requirements
+\end{center}
 \subsection{Software Requirements}
 \heading{Software Requirements for Users}
 Users just need a Laptop/PC with Windows Operating System installed.
 \heading{Software Requirements for Development}
-\begin{figure}[h!]
-\centering
+\begin{center}
 \includegraphics[scale=0.8]{table1}
-\caption{Software Requirements}
-\label{fig:soft}
-\end{figure}
+\\Figure 21: Software Requirements
+\end{center}
 
 \section{Limitations and challenges in implementation of project}
 
