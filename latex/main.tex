@@ -1,0 +1,83 @@
+\documentclass[11pt,oneside]{book}
+\usepackage[margin=1.2in]{geometry}
+\usepackage[toc,page]{appendix}
+\usepackage{graphicx}
+\usepackage{natbib}
+\usepackage{lipsum}
+\usepackage{caption}
+\begin{document}
+
+\captionsetup[figure]{margin=1.5cm,font=small,labelfont={bf},name={Figure},labelsep=colon,textfont={it}}
+\captionsetup[table]{margin=1.5cm,font=small,labelfont={bf},name={Table},labelsep=colon,textfont={it}}
+\setlipsumdefault{1}
+
+\frontmatter
+
+\begin{titlepage}
+
+
+% -------------------------------------------------------------------
+% You need to edit the details here
+% -------------------------------------------------------------------
+
+\begin{center}
+
+\linespread{1.2}\huge {\bfseries Driving behavior monitoring and reporting system}\\[1.5cm]
+\linespread{1}
+\includegraphics[width=5cm]{images/download.png}\\[1cm]
+{\small session 2016 - 2020}\\[.25cm]
+{\large{\bfseries Submitted by:}}\\[.05cm] % if applicable
+
+
+{\large Muhammad Faraz \quad 2016-CS-103}\\[0 cm]% if applicable
+{\large Hafsa Kamal \quad \quad \quad  2016-CS-151}\\[0 cm]% if applicable
+{\large Zainab Wajid \quad \quad \quad 2016-CS-176}\\[0.5cm]
+
+
+
+{\large{\bfseries Supervised by:}}\\[.05cm] 
+{\large Dr. Sheikh Faisal Rasheed}\\[0.5cm]
+
+{\large Department of Computer Science and Engineering}\\[0.05cm]
+{\large{\bfseries University of Engineering and Technology Lahore}}\\[.05cm] 
+\end{center}
+
+\end{titlepage}
+
+
+% -------------------------------------------------------------------
+% Declaration
+% -------------------------------------------------------------------
+
+
+
+% -------------------------------------------------------------------
+% Abstract
+% -------------------------------------------------------------------
+
+
+
+% -------------------------------------------------------------------
+% Contents, list of figures, list of tables
+% -------------------------------------------------------------------
+
+\tableofcontents
+\listoffigures
+\listoftables
+
+
+% -------------------------------------------------------------------
+% Main sections (as required)
+% -------------------------------------------------------------------
+
+\mainmatter
+
+\input{sections/introduction.tex}
+
+
+
+
+
+
+
+\end{document}
