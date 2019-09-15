@@ -38,7 +38,7 @@
 \Large\textbf{Final Year Project}\\
 \vfill
 \line(1,0){400}\\[1mm]
-\huge{\textbf{Auto Generation of 3D Model From 2D Floor Plan Images}}\\[3mm]
+\huge{\textbf{Auto Generation of 3D model from room images}}\\[3mm]
 \line(1,0){400}\\
 \vfill
 
@@ -68,9 +68,10 @@
 \section{Introduction}
 
 \subsection{Overview of Project}
-In the world full of wishes, everyone wants his house according to his own wish but he don't know how his house will look after proper adjustment of furniture and floor texture in the real environment inside the rooms. He cannot only rely on architects or house-map designers to make his house map or plan. Moreover, the ever growing world of 3D technologies fascinating the users and home planners to create and edit 3D models randomly using specified textures and furniture given in a certain application. 
+In the world full of wishes, everyone wants his house according to his own wish but he don't know how his house will look after proper adjustment of furniture and floor texture in the real environment inside the rooms. He cannot only rely on architects or house-map designers to make his house map or plan. Moreover, the ever growing world of 3D technologies fascinating the users and home planners to create and edit 3D models randomly using specified textures and furniture given in a certain application.
 \\
-This project intents to the auto-generation of 3D models from 2D imported floor plans. It can be operated by importing a 2D floor plan in an image format. The techniques of image processing and model mapping used to generate the 3D computer graphics model according to the imported 2D floor plan. The 3D modification function provides ability to change the texture of floor and walls; moreover, it also enables users to add furniture in 3D constructed model. User can look at 3D model from different viewpoints i.e. top-view, walk-through, front-view and side-view. Users can also visualize this 3D model by wearing 3D goggles.
+\\
+This project intent to the auto-generation of 3D models from 2D imported floor plans. It can be operated by importing a 2D floor plan in an image format. The techniques of image processing and model mapping used to generate the 3D computer graphics model according to the imported 2D floor plan. The 3D modification function provides ability to change the texture of floor and walls; moreover, it also enables users to add furniture in 3D constructed model. User can look at 3D model from different viewpoints i.e. top-view, walk-through, front-view and side-view.
 \subsection{Background}
 There has been a great incentive in generating 3D models from images of 2D floor plans using image processing\cite{ImageP} and computer graphics techniques. Our research scope embeds to those areas of interests who generate 3D models by taking floor plan in different formats or use special tools  to sketch 2D floor plan on a special editor. Some lead their research in the area of computer vision to generate models from images.
 \\
@@ -281,10 +282,10 @@ User will be able to have different viewpoints of 3-D model i.e. top view, front
 \subsection{Technical feasibility}
 For the development of proposed system, we will use latest technologies. We need any 3D graphics API for the purpose of rendering of 3D models. We can use OpenGL, Irrlicht3D or Direct3D but we choose unity3D. The reason is that OpenGL and Direct3D are low-level APIs which mean we need extremely tough graphical programming for rendering 3D models. Another reason is there were lots of APIs that are built on the top of OpenGL or Direct3D which are relatively easy to use. We can use Irrlicht3D\cite{Irrlicht} but Irrlich3D is neither a latest technology nor it is easy to use.So, finally we choose unity3D graphical engine because it is a latest technology and technically feasible, also it has user-friendly environment for developing applications. Programming language will be C\#. For image recognition and image processing techniques we will use Python 3.6. So, the project’s development is practicable and technically feasible.\cite{TechFeas}\\
 \subsection{Operational feasibility}
-Operational feasibility means whether a proposed system is to be feasible at operational level. For this purpose, we conduct a market survey in which we ask many questions from common users, architects, home planners and interior designers. 69.7\% people think that their home is not according to what they have imagined at the time of constructing house (see Figure 13). 87.9\% people like to do interior designing of their home on our software to see how it looks before actually doing in real environment (see Figure 14). 51.5\% people use already existing such systems but they don’t like these systems because of hard to use and time taking steps required to generate 3D model (see Figure 15). The proposed system is generate efficiently 3D model on just a button click.
+Operational feasibility means whether a proposed system is to be feasible at operational level. For this purpose, we conduct a market survey in which we ask many questions from common users, architects, home planners and interior designers. 69.7\% people think that their home is not according to what they have imagined at the time of constructing house(see Figure 13). 87.9\% people like to do interior designing of their home on our software to see how it looks before actually doing in real environment(see Figure 14). 51.5\% people use already existing such systems but they don’t like these systems because of hard to use and time taking steps required to generate 3D model(see Figure 15). The proposed system is generate efficiently 3D model on just a button click.
 \\
 \\
-We also conduct survey for architects, home planners and real estate seller agents. 77.3\% people think that they face difficulty in satisfying the customer with their floor plan designs (see Figure 16). 85.7\% people think that the existing systems are not easy to use (see Figure 17). 71.4\% people that existing systems are not cost effective because these softwares are not free (see Figure 18). 90.9\% people are willing to use our proposed system because our proposed system automatically generate 3D model instead of make the 3D model after a lot of manual steps (see Figure 19). 
+We also conduct survey for architects, home planners and real estate seller agents. 77.3\% people think that they face difficulty in satisfying the customer with their floor plan designs(see Figure 16). 85.7\% people think that the existing systems are not easy to use(see Figure 17). 71.4\% people that existing systems are not cost effective because these softwares are not free(see Figure 18). 90.9\% people are willing to use our proposed system because our proposed system automatically generate 3D model instead of make the 3D model after a lot of manual steps(see Figure 19). 
 This study shows that our proposed system is highly operational feasible. There are a lot of drawbacks in existing systems. People want to generate 3D model in less time and with ease. Our proposed system will bring new ideas for efficient sales promotion. Architects and home planners use our proposed system in order to win customer satisfaction. Customer gets their desired dream home exactly according to their imagination. People want to see interior designing of their home according to their imagination without wasting extra money. So, our system is highly acceptable at operational level.
 \begin{center}
 \includegraphics[scale=0.9]{surveydata}
@@ -371,54 +372,60 @@ This is quite difficult to place furniture on 3D model after its construction fr
 \begin{thebibliography}{9}
 
 \bibitem{abc} 
-ResearchGate: 3D virtual building,
-\url{https://www.researchgate.net/publication/221314258}
+@inproceedings{inproceedings,
+author = {So, Clifford and Baciu, George and Sun, Hanqiu},
+year = {1998},
+month = {01},
+pages = {17-23},
+title = {Reconstruction of 3D virtual buildings from 2D architectural floor plans},
+doi = {10.1145/293701.293704}
+}
 
  
 \bibitem{ImageP} 
-Image processing: 2D image floor plan,
-\\\texttt{https://stackoverflow.com/questions/29471866/creating-a-3d-map-with-2d-depth-
-images-in-processing}
+Image processing of 2D floor plan. [online] Available at: https://stackoverflow.com/questions/29471866/creating
+-a-3d-map-with-2d-depth-images-in-processing
 
 \bibitem{research} 
-Research paper: 3D model from 2D floor plans,
-\url{https://www.researchgate.net/publication/288038928_Automatic_reconstruction_of_3D_building_models_from_scanned_2D_floor_plans}
+@article{article,
+author = {Gimenez, Lucile and Robert, Sylvain and Suard, Frédéric and Zreik, Khaldoun},
+year = {2016},
+month = {03},
+pages = {48-56},
+title = {Automatic reconstruction of 3D building models from scanned 2D floor plans},
+volume = {63},
+journal = {Automation in Construction},
+doi = {10.1016/j.autcon.2015.12.008}
+}
 
 \bibitem{Projectscope} 
-Project Scope: Evaluation of project scope,
-\url{https://www.brighthubpm.com/project-planning/57950-example-and-evaluation-of-project-scope-statements/}
+Evaluation of project scope. [online] Available at: https://www.brighthubpm.com/project-planning/57950-example-
+and-evaluation-of-project-scope-statements/
 
 \bibitem{TechFeas} 
-Technical Feasibility,
-\url{https://www.brighthubpm.com/project-planning/57950-example-and-evaluation-of-project-scope-statements/}
+Technical Feasibility. [online] Available at: https://www.brighthubpm.com/project-planning/57950-example-and-
+evaluation-of-project-scope-statements/
 
 \bibitem{econFeas} 
-Economic Feasibility,
-\url{https://www.quora.com/What-does-economic-feasibility-mean}
+Economic Feasibility. [online] Available at: https://www.quora.com/What-does-economic-feasibility-mean
 
 \bibitem{sketchup} 
-Existing System: SketchUp,
-\url{https://www.sketchup.com/}
+Existing System SketchUp. [online] Available at: https://www.sketchup.com/
 
 \bibitem{unity} 
-3D game engine: Unity3D,
-\url{https://unity.com/}
+3D game engine Unity3D. [online] Available at: https://unity.com/
 
 
 \bibitem{freecad} 
-FreeCAD: Pros and Cons,
-\url{http://d32l.com/blog/pros-and-cons-of-free-cad-services/}
+FreeCAD Pros and Cons. [online] Available at: http://d32l.com/blog/pros-and-cons-of-free-cad-services/
 
 \bibitem{Irrlicht} 
-3D graphics engine: Irrlicht,
-\url{http://irrlicht.sourceforge.net/}
+3D graphics engine Irrlicht. [online] Available at: http://irrlicht.sourceforge.net/
 
 \bibitem{limitation} 
-Limitation: 3D modelling limitations,
-\url{https://search.yahoo.com/yhs/search?hspart=Lkry&hsimp=yhs-newtab&publisherid=55334&type=YHS_VC_55334&p=limitations+doing+3d+project&param1}
+3D modelling limitations. [online] Available at: https://projectmanagementlearning.com/what-are-the-
+limitations-of-project-management.html
 
-\bibitem{chall} 
-Challenges: Challenges in project,
-\url{https://www.nap.edu/read/22121/chapter/7#33}
+\bibitem{chall}  Challenges in project. [online] Available at: https://www.nap.edu/read/22121/chapter/
 \end{thebibliography}
 \end{document}
