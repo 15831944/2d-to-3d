@@ -1,0 +1,1055 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.16)  28 SEP 2019 13:40
+entering extended mode
+**./Feasibility.tex
+(Feasibility.tex
+LaTeX2e <2018-12-01>
+(uet_thesis.cls
+Document Class: uet_thesis 2010/22/03 v1.1 LaTeX document class
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\book.cls"
+Document Class: book 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\bk12.clo"
+File: bk12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setspace
+.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/vmargin\vmargin.s
+ty"
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+\PaperWidth=\dimen103
+\PaperHeight=\dimen104
+)
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr
+.sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip43
+\f@nch@O@elh=\skip44
+\f@nch@O@erh=\skip45
+\f@nch@O@olh=\skip46
+\f@nch@O@orh=\skip47
+\f@nch@O@elf=\skip48
+\f@nch@O@erf=\skip49
+\f@nch@O@olf=\skip50
+\f@nch@O@orf=\skip51
+)
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.s
+ty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.s
+ty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.st
+y"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen105
+))
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.st
+y"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+)
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks15
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks16
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks17
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts
+.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.
+sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amscd.sty
+"
+Package: amscd 2017/04/14 v2.1 AMS Commutative Diagrams
+\athelp@=\toks19
+\minaw@=\dimen114
+\bigaw@=\dimen115
+\minCDarrowwidth=\dimen116
+)
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.sty
+"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks20
+\thm@bodyfont=\toks21
+\thm@headfont=\toks22
+\thm@notefont=\toks23
+\thm@headpunct=\toks24
+\thm@preskip=\skip55
+\thm@postskip=\skip56
+\thm@headsep=\skip57
+\dth@everypar=\toks25
+)
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\xspace.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@example=\count101
+\c@theorem=\count102
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.s
+ty"
+Package: caption 2019/09/01 v3.3d Customizing captions (AR)
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.
+sty"
+Package: caption3 2019/09/01 v1.8d caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.s
+ty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks26
+)
+\captionmargin=\dimen117
+\captionmargin@=\dimen118
+\captionwidth=\dimen119
+\caption@tempdima=\dimen120
+\caption@indent=\dimen121
+\caption@parindent=\dimen122
+\caption@hangindent=\dimen123
+)
+\c@caption@flags=\count103
+\c@ContinuedFloat=\count104
+)
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx
+.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics
+.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty
+"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\grap
+hics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdft
+ex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen124
+\Gin@req@width=\dimen125
+)
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfigure\subfigu
+re.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip58
+\subfigcapskip=\skip59
+\subfigcaptopadj=\dimen126
+\subfigbottomskip=\skip60
+\subfigcapmargin=\dimen127
+\subfiglabelskip=\skip61
+\c@subfigure=\count105
+\c@lofdepth=\count106
+\c@subtable=\count107
+\c@lotdepth=\count108
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfigure\subfigu
+re.cfg")
+\subfig@top=\skip62
+\subfig@bottom=\skip63
+)
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\booktabs
+.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen128
+\lightrulewidth=\dimen129
+\cmidrulewidth=\dimen130
+\belowrulesep=\dimen131
+\belowbottomsep=\dimen132
+\aboverulesep=\dimen133
+\abovetopsep=\dimen134
+\cmidrulesep=\dimen135
+\cmidrulekern=\dimen136
+\defaultaddspace=\dimen137
+\@cmidla=\count109
+\@cmidlb=\count110
+\@aboverulesep=\dimen138
+\@belowrulesep=\dimen139
+\@thisruleclass=\count111
+\@lastruleclass=\count112
+\@thisrulewidth=\dimen140
+)
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\rotating
+.sty"
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count113
+\rotFPtop=\skip64
+\rotFPbot=\skip65
+\rot@float@box=\box29
+\rot@mess@toks=\toks27
+)
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings
+.sty"
+\lst@mode=\count114
+\lst@gtempboxa=\box30
+\lst@token=\toks28
+\lst@length=\count115
+\lst@currlwidth=\dimen141
+\lst@column=\count116
+\lst@pos=\count117
+\lst@lostspace=\dimen142
+\lst@width=\dimen143
+\lst@newlines=\count118
+\lst@lineno=\count119
+\lst@maxwidth=\dimen144
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.
+sty"
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+\c@lstnumber=\count120
+\lst@skipnumbers=\count121
+\lst@framebox=\box31
+)
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings
+.cfg"
+File: listings.cfg 2019/02/27 1.8b listings configuration
+))
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref
+.sty"
+Package: hyperref 2019/06/12 v6.88h Hypertext links for LaTeX
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub
+-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub
+-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex
+.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhook.
+sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoption
+s.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen145
+\Hy@linkcounter=\count122
+\Hy@pagecounter=\count123
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.d
+ef"
+File: pd1enc.def 2019/06/12 v6.88h Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count124
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperref
+.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4424.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4424.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4424
+.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 4424.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4424.
+Package hyperref Info: Option `unicode' set `true' on input line 4424.
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\puenc.de
+f"
+File: puenc.def 2019/06/12 v6.88h Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4424.
+Package hyperref Info: Hyper figures OFF on input line 4550.
+Package hyperref Info: Link nesting OFF on input line 4555.
+Package hyperref Info: Hyper index ON on input line 4558.
+Package hyperref Info: Plain pages OFF on input line 4565.
+Package hyperref Info: Backreferencing OFF on input line 4570.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4803.
+\c@Hy@tempcnt=\count125
+ ("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5156.
+\XeTeXLinkMargin=\dimen146
+\Fld@menulength=\count126
+\Field@Width=\dimen147
+\Fld@charsize=\dimen148
+Package hyperref Info: Hyper figures OFF on input line 6411.
+Package hyperref Info: Link nesting OFF on input line 6416.
+Package hyperref Info: Hyper index ON on input line 6419.
+Package hyperref Info: backreferencing OFF on input line 6426.
+Package hyperref Info: Link coloring ON on input line 6429.
+Package hyperref Info: Link coloring with OCG OFF on input line 6436.
+Package hyperref Info: PDF/A mode OFF on input line 6441.
+LaTeX Info: Redefining \ref on input line 6481.
+LaTeX Info: Redefining \pageref on input line 6485.
+\Hy@abspage=\count127
+\c@Item=\count128
+\c@Hfootnote=\count129
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.
+def"
+File: hpdftex.def 2019/06/12 v6.88h Hyperref driver for pdfTeX
+\Fld@listcount=\count130
+\c@bookmark@seq@number=\count131
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfil
+echeck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip66
+)
+\c@dummy=\count132
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\longtable.s
+ty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
+\LTleft=\skip67
+\LTright=\skip68
+\LTpre=\skip69
+\LTpost=\skip70
+\LTchunksize=\count133
+\LTcapwidth=\dimen149
+\LT@head=\box32
+\LT@firsthead=\box33
+\LT@foot=\box34
+\LT@lastfoot=\box35
+\LT@cols=\count134
+\LT@rows=\count135
+\c@LT@tables=\count136
+\c@LT@chunks=\count137
+\LT@p@ftn=\toks29
+))
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\titlesec
+.sty"
+Package: titlesec 2019/09/09 v2.12 Sectioning titles
+\ttl@box=\box36
+\beforetitleunit=\skip71
+\aftertitleunit=\skip72
+\ttl@plus=\dimen150
+\ttl@minus=\dimen151
+\ttl@toksa=\toks30
+\titlewidth=\dimen152
+\titlewidthlast=\dimen153
+\titlewidthfirst=\dimen154
+)
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\natbib.sty
+"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip73
+\bibsep=\skip74
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count138
+)
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\verbatim.st
+y"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks31
+\verbatim@line=\toks32
+\verbatim@in@stream=\read1
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 26.
+ (Feasibility.aux
+
+LaTeX Warning: Label `Table4' multiply defined.
+
+
+LaTeX Warning: Label `Table4' multiply defined.
+
+)
+\openout1 = `Feasibility.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\ltcaption
+.sty"
+Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+Package caption Info: subfigure package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-
+pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count139
+\scratchdimen=\dimen155
+\scratchbox=\box37
+\nofMPsegments=\count140
+\nofMParguments=\count141
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count142
+\MPscratchDim=\dimen156
+\MPnumerator=\count143
+\makeMPintoPDFobject=\count144
+\everyMPtoPDFconversion=\toks34
+)
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf
+-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.s
+ty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\c@lstlisting=\count145
+\AtBeginShipoutBox=\box38
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.st
+y"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\colo
+r.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+Package hyperref Info: Link coloring ON on input line 42.
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.
+sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\gettit
+lestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count146
+)
+LaTeX Info: Redefining \ref on input line 42.
+LaTeX Info: Redefining \pageref on input line 42.
+LaTeX Info: Redefining \nameref on input line 42.
+ (Feasibility.out) (Feasibility.out)
+\@outlinefile=\write3
+\openout3 = `Feasibility.out'.
+
+
+-------------------------------------------
+ Title Page
+-------------------------------------------
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 11.74988pt
+(hyperref)                replaced by space on input line 56.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 11.74988pt
+(hyperref)                replaced by space on input line 56.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 11.74988pt
+(hyperref)                replaced by space on input line 56.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 11.74988pt
+(hyperref)                replaced by space on input line 56.
+
+<./Figures/uet_logo.pdf, id=195, 150.5625pt x 150.5625pt>
+File: ./Figures/uet_logo.pdf Graphic file (type pdf)
+<use ./Figures/uet_logo.pdf>
+Package pdftex.def Info: ./Figures/uet_logo.pdf  used on input line 56.
+(pdftex.def)             Requested size: 150.56212pt x 150.56212pt.
+Package atbegshi Info: Shipout page discarded.
+[2{C:/Users/HP 820/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Figure
+s/uet_logo.pdf>]
+-------------------------------------------
+ Table of Contents
+-------------------------------------------
+(Feasibility.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+ ("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd
+"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+])
+\tf@toc=\write4
+\openout4 = `Feasibility.toc'.
+
+ [2]
+-------------------------------------------
+ List of Figures
+-------------------------------------------
+(Feasibility.lof)
+\tf@lof=\write5
+\openout5 = `Feasibility.lof'.
+
+ [3]
+Chapter 1.
+-------------------------------------------
+ 1 Introduction
+-------------------------------------------
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+[1
+
+
+]
+<Figure1.png, id=298, 583.42969pt x 419.31656pt>
+File: Figure1.png Graphic file (type png)
+<use Figure1.png>
+Package pdftex.def Info: Figure1.png  used on input line 143.
+(pdftex.def)             Requested size: 350.0605pt x 251.59186pt.
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+ [2 <./Figure1.png>]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 154.
+
+
+("C:\Users\HP 820\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 154.
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+[3]
+Chapter 2.
+-------------------------------------------
+ 2 Objectives
+-------------------------------------------
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+[4]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+ [5] [6]
+Chapter 3.
+-------------------------------------------
+ 3 Goal of the project
+-------------------------------------------
+[7]
+Chapter 4.
+-------------------------------------------
+ 4 Scope of the project
+-------------------------------------------
+[8]
+Chapter 5.
+-------------------------------------------
+ 5 Target Audience
+-------------------------------------------
+[9]
+Chapter 6.
+-------------------------------------------
+ 6 Possible applications of work
+-------------------------------------------
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+[10]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+ [11]
+Chapter 7.
+-------------------------------------------
+ 7 Existing Systems
+-------------------------------------------
+<abc.png, id=369, 559.33969pt x 247.67531pt>
+File: abc.png Graphic file (type png)
+<use abc.png>
+Package pdftex.def Info: abc.png  used on input line 246.
+(pdftex.def)             Requested size: 391.53511pt x 173.37152pt.
+[12 <./abc.png>] [13]
+Chapter 8.
+-------------------------------------------
+ 8 Problem Statement
+-------------------------------------------
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+[14]
+Chapter 9.
+-------------------------------------------
+ 9 Proposed System
+-------------------------------------------
+<Existing1.png, id=383, 335.75438pt x 388.45125pt>
+File: Existing1.png Graphic file (type png)
+<use Existing1.png>
+Package pdftex.def Info: Existing1.png  used on input line 276.
+(pdftex.def)             Requested size: 268.60387pt x 310.76141pt.
+<Existing2.png, id=386, 677.53125pt x 252.19218pt>
+File: Existing2.png Graphic file (type png)
+<use Existing2.png>
+Package pdftex.def Info: Existing2.png  used on input line 282.
+(pdftex.def)             Requested size: 474.26863pt x 176.53331pt.
+[15] [16 <./Existing1.png> <./Existing2.png>]
+<Existing3.png, id=398, 475.7775pt x 268.00125pt>
+File: Existing3.png Graphic file (type png)
+<use Existing3.png>
+Package pdftex.def Info: Existing3.png  used on input line 288.
+(pdftex.def)             Requested size: 380.6225pt x 214.40128pt.
+ [17 <./Existing3.png>]
+Chapter 10.
+-------------------------------------------
+ 10 Feasibility Study
+-------------------------------------------
+[18]
+Chapter 11.
+-------------------------------------------
+ 11 System Requirements
+-------------------------------------------
+[19]
+Chapter 12.
+-------------------------------------------
+ 12 SWOT Analysis
+-------------------------------------------
+<Table1.png, id=414, 445.665pt x 350.81062pt>
+File: Table1.png Graphic file (type png)
+<use Table1.png>
+Package pdftex.def Info: Table1.png  used on input line 345.
+(pdftex.def)             Requested size: 311.96336pt x 245.56575pt.
+<Table2.png, id=416, 575.90157pt x 197.98969pt>
+File: Table2.png Graphic file (type png)
+<use Table2.png>
+Package pdftex.def Info: Table2.png  used on input line 357.
+(pdftex.def)             Requested size: 403.12834pt x 138.59183pt.
+[20 <./Table1.png>] [21 <./Table2.png>]
+-------------------------------------------
+ 12 Refrences
+-------------------------------------------
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
+\OT1/cmr/m/n/12 usercontent.com/6d786bf2-d07c-0171-96cf-6e7595ee7cc6/678c6758-c
+5a7-
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+
+Underfull \hbox (badness 1112) in paragraph at lines 386--387
+[]\OT1/cmr/m/n/12 PakistanToday(2017). The world of ad-ver-tis-ing  An overview
+. [on-line]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
+[]\OT1/cmr/m/n/12 Statista. Global ad-ver-tis-ing spend-ing from 2010 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
+\OT1/cmr/m/n/12 2019 (in bil-lion U.S. dol-lars). [on-line] Avail-able at:
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 1221) in paragraph at lines 388--389
+[]\OT1/cmr/m/n/12 Pas. THE EVER EVOLV-ING AD-VER-TIS-ING IN-DUS-TRY OF PAK-
+ []
+
+
+Underfull \hbox (badness 4072) in paragraph at lines 388--389
+\OT1/cmr/m/n/12 ISTAN  ITS TIME TO TAKE CHANCES. [on-line] Avail-able at:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 388--389
+\OT1/cmr/m/n/12 https://pas.org.pk/the-ever-evolving-advertising-industry-of-pa
+kistan-its-
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 391--392
+\OT1/cmr/m/n/12 Avail-able: https://www.neurosciencemarketing.com/blog/articles
+/what-is-
+ []
+
+Missing character: There is no Â in font cmr12!
+Missing character: There is no ´ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ± in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--393
+[]\OT1/cmr/m/n/12 Luis Miguel So-ria Mo-rillo, Juan An-to-nio Al-varez Garca, L
+uis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--393
+\OT1/cmr/m/n/12 ni-tion Tech-nique Ap-plied to Neu-ro-mar-ket-ing by Us-ing Low
+-Cost
+ []
+
+
+Underfull \hbox (badness 3838) in paragraph at lines 392--393
+\OT1/cmr/m/n/12 EEG Head-set - Con-fer-ence Pa-per: April 2015. [on-line] Avail
+-able:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--394
+[]\OT1/cmr/m/n/12 Eminent SEO (2017). What Is Neuro-marketing and Is It
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--394
+\OT1/cmr/m/n/12 Bet-ter Than Tra-di-tional Mar-ket-ing? [on-line] Avail-able:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--394
+\OT1/cmr/m/n/12 https://www.eminentseo.com/blog/what-is-neuromarketing-vs-tradi
+tional-
+ []
+
+[22]
+Underfull \hbox (badness 1436) in paragraph at lines 395--396
+[]\OT1/cmr/m/n/12 Aayush Bhard-waj, Ankit Gupta, Pallav Jain, Asha Rani, Jy-oti
+ Ya-
+ []
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 395--396
+\OT1/cmr/m/n/12 and LDA Clas-si-fiers - 2015 2nd In-ter-na-tional Con-fer-ence 
+on Sig-
+ []
+
+
+Underfull \hbox (badness 4416) in paragraph at lines 395--396
+\OT1/cmr/m/n/12 nal Pro-cess-ing and In-te-grated Net-works (SPIN). [on-line] A
+vail-able:
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+
+Underfull \hbox (badness 2173) in paragraph at lines 408--409
+[]\OT1/cmr/m/n/12 Zhen Wei, Chao Wu1, Xi-aoyi Wang, Akara Supratak, Pan Wang1
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 408--409
+\OT1/cmr/m/n/12 sti-tutes of Health: Fron-tiers of Neuro-Science March 2018 Ava
+il-able:
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+[]\OT1/cmr/m/n/12 C&EN Me-dia Group(July 02, 2018). Your Neu-ro-mar-ket-ing
+ []
+
+
+Underfull \hbox (badness 6332) in paragraph at lines 411--412
+\OT1/cmr/m/n/12 Guide, Step 1: Defin-ing Your Unique Tar-get Au-di-ence [on-lin
+e]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+\OT1/cmr/m/n/12 Available:https://acsmediakit.org/blog/neuromarketing-step-1-de
+fining-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--414
+[]\OT1/cmr/m/n/12 ieeexplore.ieee.org(2017) . Adap-tive learn-ing sys-tem for E
+-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--414
+\OT1/cmr/m/n/12 learning based on EEG brain sig-nals. [on-line] Avail-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--416
+[]\OT1/cmr/m/n/12 Brainwave Sens-ing Head-set.[online] Avail-able:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 416--417
+[]\OT1/cmr/m/n/12 Using Sup-port Vec-tor Ma-chine on EEG for Ad-ver-tise-ment I
+m-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 416--417
+\OT1/cmr/m/n/12 pact As-sess-ment Zhen Wei1*, Chao Wu1,2, Xi-aoyi Wang3,
+ []
+
+
+Underfull \hbox (badness 6542) in paragraph at lines 416--417
+\OT1/cmr/m/n/12 Akara Supratak1, Pan Wang1 and Yike Guo1*.[online] Avail-able:
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+
+Underfull \hbox (badness 2856) in paragraph at lines 421--422
+[]\OT1/cmr/m/n/12 MindWave Mo-bile 2: User Guide-May 14, 2018. [on-line] Avail-
+able:
+ []
+
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 423--424
+[]\OT1/cmr/m/n/12 Mindwave Mob-bile 2: User Guide [on-line] Avail-able:
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 438.
+[25]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 438.
+ (Feasibility.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 438.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 438.
+Package rerunfilecheck Info: File `Feasibility.out' has not changed.
+(rerunfilecheck)             Checksum: 827E49F4419DFC016446C563CD7FF289;8156.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 438.
+ ) 
+Here is how much of TeX's memory you used:
+ 13299 strings out of 492895
+ 189191 string characters out of 3123266
+ 268750 words of memory out of 3000000
+ 16951 multiletter control sequences out of 15000+200000
+ 10757 words of font info for 40 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 43i,11n,45p,1948b,544s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/HP 820/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmbx12.pfb><C:/Users/HP 820/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmcsc10.pfb><C:/Users/HP 820/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/HP 820/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/HP 820/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users
+/HP 820/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb>
+Output written on Feasibility.pdf (29 pages, 548238 bytes).
+PDF statistics:
+ 507 PDF objects out of 1000 (max. 8388607)
+ 120 named destinations out of 1000 (max. 500000)
+ 425 words of extra memory for PDF output out of 10000 (max. 10000000)
+
